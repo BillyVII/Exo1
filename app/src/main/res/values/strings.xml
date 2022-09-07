@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exo1</string>
+    <string name="connexion_via_twitter">CONNEXION VIA TWITTER</string>
+    <string name="connexion_via_facebook">connexion via facebook</string>
+    <string name="creation_d_un_compte_bloggies">CREATION D\'UN COMPTE BLOGGIES</string>
+    <string name="logobloggies">logoBloggies</string>
+    <string name="connexion">CONNEXION</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="login">Login?</string>
+    <string name="inscription">INSCRIPTION</string>
+    <string name="email2">Email?</string>
+    <string name="password">Password?</string>
+    <string name="confirmation">Confirmation?</string>
+</resources>
